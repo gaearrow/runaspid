@@ -9,5 +9,12 @@ runaspid.exe 1234 getinfo.exe
 
 runaspid.exe 1234 sysinfo.bat
 
-## IDE
+## ide
 Visual Studio 2013
+
+## tested
+winxp sp3
+
+win7 x86 sp1
+
+win7 x64 sp1
